@@ -1,0 +1,9 @@
+autocorrect
+contractions
+gensim
+googletrans
+langdetect
+pandas
+scikit-learn
+Unidecode
+wordcloud
